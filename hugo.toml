@@ -1,3 +1,4 @@
+publishDir = "docs"
 baseURL = "http://megavon.net"
 defaultContentLanguage = "vi"
 enableEmoji = true
