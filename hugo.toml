@@ -1,5 +1,5 @@
 publishDir = "docs"
-baseURL = "https://megavon.net/"
+baseURL = "http://megavon.net/"
 defaultContentLanguage = "vi"
 enableEmoji = true
 enableRobotsTXT = true
