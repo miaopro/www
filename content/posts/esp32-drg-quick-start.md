@@ -1,5 +1,5 @@
 ---
-title: "HD: Chỉnh nhanh mạch Rồng"
+title: "Hướng dẫn nhanh mạch Rồng"
 date: 2025-11-02T17:55:28+08:00
 description: "Hướng dẫn đơn giản, dễ hiểu để điều chỉnh nhanh mạch Rồng ngay sau khi đấu nối."
 tags: ["guides", "esp32", "machhancell", "machrong"]
@@ -57,7 +57,7 @@ P1 25 C 70 M1 60
 * Đây là **xung hàn chính**, ảnh hưởng trực tiếp đến độ ngấu.
 * Nên chỉnh cao hơn P1 và tùy theo độ dày kẽm.
 
-## 4. Liên kết video/ tài liệu
+## 4. video/ tài liệu khác
 * Hướng dẫn chi tiết: [Tài liệu](/guides/esp32-dragon/). 
 * Video nối SCR: [Youtube](https://www.youtube.com/watch?v=M3AvCFaGgWk) / [Tiktok](https://www.tiktok.com/@megavon.net/video/7287894647702064402). 
 * Video nối mạch: [Youtube](https://www.youtube.com/watch?v=P7BlRbaLrLs) / [Tiktok](https://www.tiktok.com/@megavon.net/video/7288524798681156872). 
