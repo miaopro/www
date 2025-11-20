@@ -2,7 +2,7 @@
 title: "Hướng dẫn nhanh mạch Rồng"
 date: 2025-11-02T17:55:28+08:00
 description: "Hướng dẫn đơn giản, dễ hiểu để điều chỉnh nhanh mạch Rồng ngay sau khi đấu nối."
-tags: ["guides", , "mach han cell", "mach rong"]
+tags: ["guides", "mach_han_cell", "mach_rong"]
 type: post
 weight: 25
 showTableOfContents: true

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mach_han_cell on MeV</title><link>http://megavon.net/tags/mach_han_cell/</link><description>Recent content in Mach_han_cell on MeV</description><generator>Hugo</generator><language>vi</language><lastBuildDate>Sun, 02 Nov 2025 17:55:28 +0800</lastBuildDate><atom:link href="http://megavon.net/tags/mach_han_cell/index.xml" rel="self" type="application/rss+xml"/><item><title>Hướng dẫn nhanh mạch Rồng</title><link>http://megavon.net/posts/esp32-drg-quick-start/</link><pubDate>Sun, 02 Nov 2025 17:55:28 +0800</pubDate><guid>http://megavon.net/posts/esp32-drg-quick-start/</guid><description>&lt;h2 id="1-đồng-bộ-điện-áp-hiển-thị-trên-mạch"&gt;1. Đồng bộ điện áp hiển thị trên mạch&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Tắt nguồn điện.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ấn giữ núm xoay&lt;/strong&gt;, sau đó &lt;strong&gt;bật nguồn&lt;/strong&gt; để vào Hệ thống&lt;/li&gt;
+&lt;li&gt;Vào mục &lt;strong&gt;Nâng cao → Chỉnh áp AC&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Chỉnh cho &lt;strong&gt;điện áp hiển thị khớp với điện áp thực tế&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Để thoát ra ngoài: Phần mềm → Khởi động&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="2-kiểm-tra-tín-hiệu-kích-biến-áp"&gt;2. Kiểm tra tín hiệu kích biến áp&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Kích hàn thử (không có pin và kẽm).&lt;/li&gt;
+&lt;li&gt;Nếu &lt;strong&gt;không có điện vào biến áp&lt;/strong&gt;, hãy &lt;strong&gt;đảo lại dây nguồn 12V AC&lt;/strong&gt; cấp vào mạch (Các dây khác giữ nguyên).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="3-chỉnh-thông-số-hàn"&gt;3. Chỉnh thông số hàn&lt;/h2&gt;
+&lt;p&gt;Ví dụ hiển thị trên màn hình:&lt;/p&gt;</description></item><item><title/><link>http://megavon.net/guides/esp32-dragon/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://megavon.net/guides/esp32-dragon/</guid><description>&lt;p&gt;&lt;img src="drg-01.png" alt=""&gt;
+&lt;img src="drg-02.png" alt=""&gt;
+&lt;img src="drg-03.png" alt=""&gt;
+&lt;img src="drg-04.png" alt=""&gt;
+&lt;img src="drg-05.png" alt=""&gt;
+&lt;img src="drg-06.png" alt=""&gt;
+&lt;img src="drg-07.png" alt=""&gt;
+&lt;img src="drg-08.png" alt=""&gt;
+&lt;img src="drg-09.png" alt=""&gt;
+&lt;img src="drg-10.png" alt=""&gt;&lt;/p&gt;</description></item></channel></rss>

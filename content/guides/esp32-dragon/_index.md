@@ -1,6 +1,6 @@
 ---
 type: page
-tags: ["guides", "esp32", "machhancell", "machrong"]
+tags: ["guides", "mach_han_cell", "mach_rong"]
 ---
 
 ![](drg-01.png)
