@@ -65,7 +65,7 @@ title = "MeV"
   [[menu.main]]
     name = "Tài liệu"
     pre = "<span data-feather='code'></span>"
-    url = "/projects/"
+    url = "/guides/"
     weight = 3
 
   [[menu.main]]
