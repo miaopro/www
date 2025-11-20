@@ -61,7 +61,7 @@ P1 25 C 70 M1 60
 * Hướng dẫn chi tiết: [Tài liệu](/guides/esp32-dragon/). 
 * Video nối SCR: [Youtube](https://www.youtube.com/watch?v=M3AvCFaGgWk) / [Tiktok](https://www.tiktok.com/@megavon.net/video/7287894647702064402). 
 * Video nối mạch: [Youtube](https://www.youtube.com/watch?v=P7BlRbaLrLs) / [Tiktok](https://www.tiktok.com/@megavon.net/video/7288524798681156872). 
-
+* Liên hệ My My: [facebook](https://www.facebook.com/my.my.63808)
 ---
 
 > **Gợi ý:** Mỗi biến áp khác nhau sẽ có một thông số khác nhau, cho nên cần chỉnh theo nguyên lý sau đó hàn thử và điều chỉnh phù hợp cho đến khi đạt được kết quả tối ưu.
