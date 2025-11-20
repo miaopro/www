@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mach_rong on MeV</title><link>https://megavon.net/tags/mach_rong/</link><description>Recent content in Mach_rong on MeV</description><generator>Hugo</generator><language>vi</language><lastBuildDate>Sun, 02 Nov 2025 17:55:28 +0800</lastBuildDate><atom:link href="https://megavon.net/tags/mach_rong/index.xml" rel="self" type="application/rss+xml"/><item><title>Hướng dẫn nhanh mạch Rồng</title><link>https://megavon.net/posts/esp32-drg-quick-start/</link><pubDate>Sun, 02 Nov 2025 17:55:28 +0800</pubDate><guid>https://megavon.net/posts/esp32-drg-quick-start/</guid><description>&lt;h2 id="1-đồng-bộ-điện-áp-hiển-thị-trên-mạch"&gt;1. Đồng bộ điện áp hiển thị trên mạch&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mach_rong on MeV</title><link>https://megavon.net/tags/mach_rong/</link><description>Recent content in Mach_rong on MeV</description><generator>Hugo</generator><language>vi</language><lastBuildDate>Sun, 02 Nov 2025 17:55:28 +0800</lastBuildDate><atom:link href="https://megavon.net/tags/mach_rong/index.xml" rel="self" type="application/rss+xml"/><item><title>Hướng dẫn nhanh mạch Rồng</title><link>https://megavon.net/posts/esp32-drg-quick-start/</link><pubDate>Sun, 02 Nov 2025 17:55:28 +0800</pubDate><guid>https://megavon.net/posts/esp32-drg-quick-start/</guid><description>&lt;figure&gt;&lt;img src="https://megavon.net/posts/drg-3D.png"
+ alt="Mạch rồng 3D"&gt;
+&lt;/figure&gt;
+
+&lt;h2 id="1-đồng-bộ-điện-áp-hiển-thị-trên-mạch"&gt;1. Đồng bộ điện áp hiển thị trên mạch&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Tắt nguồn điện.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Ấn giữ núm xoay&lt;/strong&gt;, sau đó &lt;strong&gt;bật nguồn&lt;/strong&gt; để vào Hệ thống&lt;/li&gt;

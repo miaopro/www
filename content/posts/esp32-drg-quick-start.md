@@ -8,6 +8,9 @@ weight: 25
 showTableOfContents: true
 ---
 
+{{< figure src="/posts/drg-3D.png" alt="Mạch rồng 3D" >}}
+
+
 ## 1. Đồng bộ điện áp hiển thị trên mạch
 
 * Tắt nguồn điện.
@@ -45,7 +48,7 @@ P1 25 C 70 M1 60
 
 * P1 25 = công suất **25%**.
 * Đây là **xung làm mềm kẽm** trước khi hàn chính.
-* Khuyến nghị: **15% – 25%**.
+* Khuyến nghị để nhỏ: **15% – 25%**.
 
 #### 🔹 C 70 — Thời gian nghỉ
 
