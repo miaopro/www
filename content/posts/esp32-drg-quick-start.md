@@ -2,7 +2,7 @@
 title: "Hướng dẫn nhanh mạch Rồng"
 date: 2025-11-02T17:55:28+08:00
 description: "Hướng dẫn đơn giản, dễ hiểu để điều chỉnh nhanh mạch Rồng ngay sau khi đấu nối."
-tags: ["guides", "esp32", "machhancell", "machrong"]
+tags: ["guides", , "mach han cell", "mach rong"]
 type: post
 weight: 25
 showTableOfContents: true
@@ -59,8 +59,8 @@ P1 25 C 70 M1 60
 
 ## 4. video/ tài liệu khác
 * Hướng dẫn chi tiết: [Tài liệu](/guides/esp32-dragon/). 
-* Video nối SCR: [Youtube](https://www.youtube.com/watch?v=M3AvCFaGgWk) / [Tiktok](https://www.tiktok.com/@megavon.net/video/7287894647702064402). 
-* Video nối mạch: [Youtube](https://www.youtube.com/watch?v=P7BlRbaLrLs) / [Tiktok](https://www.tiktok.com/@megavon.net/video/7288524798681156872). 
+* Video nối SCR: [youtube](https://www.youtube.com/watch?v=M3AvCFaGgWk) / [tiktok](https://www.tiktok.com/@megavon.net/video/7287894647702064402). 
+* Video nối mạch: [youtube](https://www.youtube.com/watch?v=P7BlRbaLrLs) / [tiktok](https://www.tiktok.com/@megavon.net/video/7288524798681156872). 
 * Liên hệ My My: [facebook](https://www.facebook.com/my.my.63808)
 ---
 
