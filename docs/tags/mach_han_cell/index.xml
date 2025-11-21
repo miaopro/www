@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mach_han_cell on MeV</title><link>http://localhost:1313/tags/mach_han_cell/</link><description>Recent content in Mach_han_cell on MeV</description><generator>Hugo</generator><language>vi</language><lastBuildDate>Sun, 02 Nov 2025 17:55:28 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/mach_han_cell/index.xml" rel="self" type="application/rss+xml"/><item><title>Hướng dẫn nhanh mạch Rồng</title><link>http://localhost:1313/posts/huong-dan-nhanh-mach-rong/</link><pubDate>Sun, 02 Nov 2025 17:55:28 +0800</pubDate><guid>http://localhost:1313/posts/huong-dan-nhanh-mach-rong/</guid><description>&lt;figure&gt;&lt;img src="http://localhost:1313/posts/huong-dan-nhanh-mach-rong/drg-3D.png"
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mach_han_cell on MeV</title><link>https://megavon.net/tags/mach_han_cell/</link><description>Recent content in Mach_han_cell on MeV</description><generator>Hugo</generator><language>vi</language><lastBuildDate>Sun, 02 Nov 2025 17:55:28 +0800</lastBuildDate><atom:link href="https://megavon.net/tags/mach_han_cell/index.xml" rel="self" type="application/rss+xml"/><item><title>Hướng dẫn nhanh mạch Rồng</title><link>https://megavon.net/posts/huong-dan-nhanh-mach-rong/</link><pubDate>Sun, 02 Nov 2025 17:55:28 +0800</pubDate><guid>https://megavon.net/posts/huong-dan-nhanh-mach-rong/</guid><description>&lt;figure&gt;&lt;img src="https://megavon.net/posts/huong-dan-nhanh-mach-rong/drg-3D.png"
  alt="Mạch rồng 3D"&gt;
 &lt;/figure&gt;
 
@@ -18,7 +18,7 @@
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id="3-chỉnh-thông-số-hàn"&gt;3. Chỉnh thông số hàn&lt;/h2&gt;
-&lt;p&gt;Ví dụ hiển thị trên màn hình:&lt;/p&gt;</description></item><item><title/><link>http://localhost:1313/guides/esp32-dragon/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/guides/esp32-dragon/</guid><description>&lt;p&gt;&lt;img src="drg-01.png" alt=""&gt;
+&lt;p&gt;Ví dụ hiển thị trên màn hình:&lt;/p&gt;</description></item><item><title/><link>https://megavon.net/guides/esp32-dragon/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://megavon.net/guides/esp32-dragon/</guid><description>&lt;p&gt;&lt;img src="drg-01.png" alt=""&gt;
 &lt;img src="drg-02.png" alt=""&gt;
 &lt;img src="drg-03.png" alt=""&gt;
 &lt;img src="drg-04.png" alt=""&gt;
