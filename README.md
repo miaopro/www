@@ -1,4 +1,5 @@
-hugo --minify --gc
+hugo --cleanDestinationDir --minify --gc
+
 
 [bep]: https://github.com/bep
 [bugs]: https://github.com/gohugoio/hugo/issues?q=is%3Aopen+is%3Aissue+label%3ABug
