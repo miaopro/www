@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MeV</title><link>https://megavon.net/</link><description>Recent content on MeV</description><generator>Hugo</generator><language>vi</language><lastBuildDate>Sun, 02 Nov 2025 17:55:28 +0800</lastBuildDate><atom:link href="https://megavon.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Hướng dẫn nhanh mạch Rồng</title><link>https://megavon.net/posts/huong-dan-nhanh-mach-rong/</link><pubDate>Sun, 02 Nov 2025 17:55:28 +0800</pubDate><guid>https://megavon.net/posts/huong-dan-nhanh-mach-rong/</guid><description>&lt;figure&gt;&lt;img src="https://megavon.net/posts/drg-3D.png"
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MeV</title><link>http://localhost:1313/</link><description>Recent content on MeV</description><generator>Hugo</generator><language>vi</language><lastBuildDate>Sun, 02 Nov 2025 17:55:28 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>Hướng dẫn nhanh mạch Rồng</title><link>http://localhost:1313/posts/huong-dan-nhanh-mach-rong/</link><pubDate>Sun, 02 Nov 2025 17:55:28 +0800</pubDate><guid>http://localhost:1313/posts/huong-dan-nhanh-mach-rong/</guid><description>&lt;figure&gt;&lt;img src="http://localhost:1313/posts/huong-dan-nhanh-mach-rong/drg-3D.png"
  alt="Mạch rồng 3D"&gt;
 &lt;/figure&gt;
 
@@ -18,7 +18,7 @@
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id="3-chỉnh-thông-số-hàn"&gt;3. Chỉnh thông số hàn&lt;/h2&gt;
-&lt;p&gt;Ví dụ hiển thị trên màn hình:&lt;/p&gt;</description></item><item><title/><link>https://megavon.net/guides/esp32-dragon/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://megavon.net/guides/esp32-dragon/</guid><description>&lt;p&gt;&lt;img src="drg-01.png" alt=""&gt;
+&lt;p&gt;Ví dụ hiển thị trên màn hình:&lt;/p&gt;</description></item><item><title/><link>http://localhost:1313/guides/esp32-dragon/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/guides/esp32-dragon/</guid><description>&lt;p&gt;&lt;img src="drg-01.png" alt=""&gt;
 &lt;img src="drg-02.png" alt=""&gt;
 &lt;img src="drg-03.png" alt=""&gt;
 &lt;img src="drg-04.png" alt=""&gt;
@@ -27,7 +27,7 @@
 &lt;img src="drg-07.png" alt=""&gt;
 &lt;img src="drg-08.png" alt=""&gt;
 &lt;img src="drg-09.png" alt=""&gt;
-&lt;img src="drg-10.png" alt=""&gt;&lt;/p&gt;</description></item><item><title>Blüdhaven</title><link>https://megavon.net/projects/bludhaven/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://megavon.net/projects/bludhaven/</guid><description>&lt;h2 id="history"&gt;History&lt;/h2&gt;
-&lt;p&gt;Blüdhaven was a former whaling town, which was officially incorporated as a &amp;ldquo;Commonwealth&amp;rdquo; in 1912. The town had a generally poor socio-economic populace, owing in part to failed efforts to transform itself into a manufacturing and shipping center.&lt;/p&gt;</description></item><item><title>Hydra</title><link>https://megavon.net/projects/hydra/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://megavon.net/projects/hydra/</guid><description>&lt;h2 id="motto"&gt;Motto&lt;/h2&gt;
-&lt;p&gt;Cut off one head, and two will take their place.&lt;/p&gt;</description></item><item><title>Tatooine</title><link>https://megavon.net/projects/tatooine/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://megavon.net/projects/tatooine/</guid><description>&lt;h2 id="a-long-time-ago-in-a-galaxy-far-far-away"&gt;A long time ago in a galaxy far, far away&amp;hellip;.&lt;/h2&gt;
+&lt;img src="drg-10.png" alt=""&gt;&lt;/p&gt;</description></item><item><title>Blüdhaven</title><link>http://localhost:1313/projects/bludhaven/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/projects/bludhaven/</guid><description>&lt;h2 id="history"&gt;History&lt;/h2&gt;
+&lt;p&gt;Blüdhaven was a former whaling town, which was officially incorporated as a &amp;ldquo;Commonwealth&amp;rdquo; in 1912. The town had a generally poor socio-economic populace, owing in part to failed efforts to transform itself into a manufacturing and shipping center.&lt;/p&gt;</description></item><item><title>Hydra</title><link>http://localhost:1313/projects/hydra/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/projects/hydra/</guid><description>&lt;h2 id="motto"&gt;Motto&lt;/h2&gt;
+&lt;p&gt;Cut off one head, and two will take their place.&lt;/p&gt;</description></item><item><title>Tatooine</title><link>http://localhost:1313/projects/tatooine/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/projects/tatooine/</guid><description>&lt;h2 id="a-long-time-ago-in-a-galaxy-far-far-away"&gt;A long time ago in a galaxy far, far away&amp;hellip;.&lt;/h2&gt;
 &lt;p&gt;A project was planned, but never completed.&lt;/p&gt;</description></item></channel></rss>

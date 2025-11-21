@@ -9,7 +9,7 @@ showTableOfContents: true
 image: "drg-3D.png"
 ---
 
-{{< figure src="/posts/drg-3D.png" alt="Mạch rồng 3D" >}}
+{{< figure src="drg-3D.png" alt="Mạch rồng 3D" >}}
 
 
 ## 1. Đồng bộ điện áp hiển thị trên mạch
