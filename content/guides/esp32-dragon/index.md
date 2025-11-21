@@ -1,7 +1,7 @@
 ---
 type: page
 tags: ["guides", "mach_han_cell", "mach_rong"]
-image: "cover.png"
+image: "guides/esp32-dragon/cover.png"
 ---
 
 ![](drg-01.png)
