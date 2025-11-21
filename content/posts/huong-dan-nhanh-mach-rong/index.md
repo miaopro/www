@@ -6,7 +6,7 @@ tags: ["guides", "mach_han_cell", "mach_rong"]
 type: post
 weight: 25
 showTableOfContents: true
-image: "/posts/huong-dan-nhanh-mach-rong/drg-3D.png"
+image: "/posts/huong-dan-nhanh-mach-rong/cover.png"
 ---
 
 {{< figure src="drg-3D.png" alt="Mạch rồng 3D" >}}
