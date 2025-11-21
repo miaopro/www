@@ -54,6 +54,7 @@ P1 25 C 70 M1 60
 #### 🔹 C 70 — Thời gian nghỉ
 
 * C 70 = **70 ms** nghỉ giữa xung mồi và xung chính.
+* Điều chỉnh phù hợp với biến áp vì nó liên quan đến độ đẹp của mối hàn.
 
 #### 🔹 M1 60 — Xung hàn chính (Main, 10 ms)
 
