@@ -18,4 +18,56 @@
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id="3-chỉnh-thông-số-hàn"&gt;3. Chỉnh thông số hàn&lt;/h2&gt;
-&lt;p&gt;Ví dụ hiển thị trên màn hình:&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;Ví dụ hiển thị trên màn hình:&lt;/p&gt;</description></item><item><title>Hướng dẫn chọn mua BTA100</title><link>https://megavon.net/posts/cach-chon-bta100/</link><pubDate>Thu, 01 May 2025 17:55:28 +0700</pubDate><guid>https://megavon.net/posts/cach-chon-bta100/</guid><description>&lt;h1 id="giới-thiệu"&gt;Giới thiệu:&lt;/h1&gt;
+&lt;p&gt;Triac &lt;strong&gt;BTA100&lt;/strong&gt; được dùng nhiều trong các thiết bị công suất như máy hàn cell, bộ điều khiển tải AC… Tuy nhiên thị trường hiện có rất nhiều loại không rõ nguồn gốc, rất dễ mua nhầm hàng kém chất lượng. Dưới đây là kinh nghiệm rút ra từ quá trình test thực tế.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="1-hãng-st-không-sản-xuất-bta100"&gt;1. Hãng ST KHÔNG sản xuất BTA100&lt;/h2&gt;
+&lt;p&gt;&lt;img src="ST-fake.jpg" alt="BTA100 logo ST (hàng giả)"&gt;&lt;/p&gt;
+&lt;p&gt;Trên thị trường có nhiều BTA100 được khắc laze &lt;strong&gt;logo hãng ST&lt;/strong&gt; (giả dạng hãng sản xuất linh kiện uy tín). Nếu thấy BTA100 in &lt;strong&gt;logo ST&lt;/strong&gt;, cho dù chữ in sắc nét tới đâu thì &lt;strong&gt;100% là hàng giả&lt;/strong&gt;. Vì dòng BTA100 &lt;strong&gt;không hề&lt;/strong&gt; nằm trong danh mục sản phẩm của hãng STMicroelectronics.&lt;/p&gt;</description></item><item><title>Hướng dẫn nhanh mạch MVS01</title><link>https://megavon.net/posts/huong-dan-nhanh-mach-mvs01sdwf/</link><pubDate>Sun, 02 Feb 2025 17:55:28 +0800</pubDate><guid>https://megavon.net/posts/huong-dan-nhanh-mach-mvs01sdwf/</guid><description>&lt;figure&gt;&lt;img src="mvs01.png"
+ alt="Mạch MVS01-SDWF"&gt;
+&lt;/figure&gt;
+
+&lt;h2 id="1-đồng-bộ-điện-áp-hiển-thị-trên-mạch"&gt;1. Đồng bộ điện áp hiển thị trên mạch&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Tắt nguồn điện.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ấn giữ núm xoay&lt;/strong&gt;, sau đó &lt;strong&gt;bật nguồn&lt;/strong&gt; để vào Setup&lt;/li&gt;
+&lt;li&gt;Tại vol Calib: Chỉnh cho &lt;strong&gt;điện áp hiển thị khớp với điện áp thực tế&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Để lưu và thoát: Đạp cóc → Khởi động&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="2-chỉnh-thông-số-hàn"&gt;2. Chỉnh thông số hàn&lt;/h2&gt;
+&lt;p&gt;Ví dụ hiển thị trên màn hình:&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;Vol: 220 W: 82
+P1 25 C 50 M1 60
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id="giải-thích-thông-số"&gt;Giải thích thông số&lt;/h3&gt;
+&lt;h4 id="-vol-220-w-----82---thông-tin"&gt;🔹 Vol: 220 W: 82 - Thông tin&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Vol: 220 là đồng hồ hiển thị điện lưới.&lt;/li&gt;
+&lt;li&gt;W: 80 là bộ đếm số lần hàn.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="-p1-25--xung-hàn-mồi-pre-10-ms"&gt;🔹 P1 25 — Xung hàn mồi (Pre, 10 ms)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;P1 25 = công suất &lt;strong&gt;25%&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Đây là &lt;strong&gt;xung làm mềm kẽm&lt;/strong&gt; trước khi hàn chính.&lt;/li&gt;
+&lt;li&gt;Khuyến nghị để nhỏ: &lt;strong&gt;15% – 25%&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="-c-50--thời-gian-nghỉ"&gt;🔹 C 50 — Thời gian nghỉ&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;C 50 = &lt;strong&gt;50 ms&lt;/strong&gt; nghỉ giữa xung mồi và xung chính.&lt;/li&gt;
+&lt;li&gt;Điều chỉnh phù hợp với biến áp vì nó liên quan đến độ đẹp của mối hàn.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="-m1-60--xung-hàn-chính-main-10-ms"&gt;🔹 M1 60 — Xung hàn chính (Main, 10 ms)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;M1 60 = công suất &lt;strong&gt;60%&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Đây là &lt;strong&gt;xung hàn chính&lt;/strong&gt;, ảnh hưởng trực tiếp đến độ ngấu.&lt;/li&gt;
+&lt;li&gt;Nên chỉnh cao hơn P1 và tùy theo độ dày kẽm.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="4-video-link"&gt;4. Video/ Link&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Hướng dẫn chi tiết: &lt;a href="https://megavon.net/guides/esp32-dragon/"&gt;Tài liệu&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Cách chọn BTA100: &lt;a href="https://www.facebook.com/my.my.63808"&gt;Bài viết&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Liên hệ My My: &lt;a href="https://www.facebook.com/my.my.63808"&gt;facebook&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Gợi ý:&lt;/strong&gt; Mỗi biến áp khác nhau sẽ có một thông số khác nhau, cho nên cần chỉnh theo nguyên lý. Sau đó hàn thử và điều chỉnh phù hợp cho đến khi đạt được kết quả tối ưu.&lt;/p&gt;</description></item></channel></rss>
